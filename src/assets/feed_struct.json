@@ -1,0 +1,203 @@
+[
+  {
+    "userId": "61e1609392c643b754230c5d",
+    "tenantId": "lloyder001",
+    "content": "Bt Tu nnnm",
+    "scope": "OPEN",
+    "attachments": [],
+    "postedFrom": {
+      "createdAt": "2022-01-24T13:09:53.425Z",
+      "updatedAt": "2022-01-24T13:09:53.425Z"
+    },
+    "customData": {
+      "eventDate": 1643029792.387788
+    },
+    "createdAt": "2022-01-24T13:09:53.425Z",
+    "updatedAt": "2022-01-24T13:10:06.458Z",
+    "likes": {
+      "totalCount": 1,
+      "type": {
+        "like": 1
+      }
+    },
+    "comments": {
+      "lastCommentedById": "61e1609392c643b754230c5d",
+      "lastCommentedByName": "abdullah kazi",
+      "totalCount": 1,
+      "updatedAt": "2022-01-24T13:10:06.458Z"
+    },
+    "feedId": "61eea5217bf20c6c1fd6c853",
+    "liked": null,
+    "user": {
+      "_id": "61e1609392c643b754230c5d",
+      "type": "user",
+      "name": "abdullah kazi",
+      "profilePicture": "https://lh3.googleusercontent.com/a/AATXAJzyuQZnSarIAVKsJJqqNeZazixpisMBWSm0yu6l=s96-c",
+      "customData": {
+        "emergencyNumberCountryCode": "+91",
+        "age": {
+          "label": "35-55",
+          "values": {
+            "min": 35,
+            "max": 55
+          }
+        },
+        "lastVisitedPage": 5,
+        "target": {
+          "label": "Muscle Gain",
+          "value": "Muscle Gain"
+        },
+        "level": {
+          "label": "Advanced",
+          "value": "3"
+        },
+        "activityDuration": {
+          "label": "45+ minutes",
+          "values": {
+            "min": 45
+          }
+        },
+        "frequency": {
+          "label": "3",
+          "value": "3"
+        }
+      },
+      "address": {
+        "fullAddress": "ghjkkknbv"
+      }
+    },
+    "action": [],
+    "timeDifference": "1D",
+    "feedType": "FEED_POST",
+    "actions": {},
+    "isBookmarked": false,
+    "shouldBeHidden": false,
+    "isReported": false
+  },
+  {
+    "userId": "60bde079a690497dc9d03820",
+    "tenantId": "lloyder001",
+    "content": "Test",
+    "scope": "SUBSCRIPTION",
+    "attachments": [
+      {
+        "url": "https://social-cfd-test.sworks.io/lloyder001/60bde079a690497dc9d03820/b00566b13c48d66f8e775cd722b22dd6.jpeg",
+        "type": "image",
+        "createdAt": "2022-01-19T12:24:41.500Z",
+        "updatedAt": "2022-01-19T12:24:41.500Z"
+      }
+    ],
+    "title": "Builder",
+    "postedFrom": {
+      "createdAt": "2022-01-19T12:24:41.500Z",
+      "updatedAt": "2022-01-19T12:24:41.500Z"
+    },
+    "topic": {
+      "id": "617fd7f5194fd72954154828",
+      "name": "Core Body",
+      "createdAt": "2022-01-19T12:24:41.500Z",
+      "updatedAt": "2022-01-19T12:24:41.500Z"
+    },
+    "customData": {
+      "helpText": "Test",
+      "parentTopicId": "617fd609733523038206b935"
+    },
+    "createdAt": "2022-01-19T12:24:41.500Z",
+    "updatedAt": "2022-01-25T12:26:32.280Z",
+    "likes": {
+      "totalCount": 1,
+      "type": {
+        "like": 1
+      }
+    },
+    "feedId": "61e803094934296c1390271f",
+    "liked": null,
+    "user": {
+      "_id": "60bde079a690497dc9d03820",
+      "name": "Amit Agrawal",
+      "type": "admin"
+    },
+    "action": [],
+    "timeDifference": "6D",
+    "feedType": "FEED_POST",
+    "actions": {},
+    "isBookmarked": false,
+    "shouldBeHidden": false,
+    "isReported": false
+  },
+  {
+    "userId": "61e1609392c643b754230c5d",
+    "tenantId": "lloyder001",
+    "content": "Hi",
+    "scope": "OPEN",
+    "attachments": [],
+    "postedFrom": {
+      "createdAt": "2022-01-18T11:30:58.026Z",
+      "updatedAt": "2022-01-18T11:30:58.026Z"
+    },
+    "customData": {
+      "eventDate": 1642505457.39506
+    },
+    "createdAt": "2022-01-18T11:30:58.026Z",
+    "updatedAt": "2022-01-25T12:58:16.581Z",
+    "likes": {
+      "totalCount": 1,
+      "type": {
+        "like": 1
+      }
+    },
+    "comments": {
+      "lastCommentedById": "61b9dd5554fa3bf4f7ecb0f1",
+      "lastCommentedByName": "Sohil Memon",
+      "totalCount": 3,
+      "updatedAt": "2022-01-25T12:58:16.581Z"
+    },
+    "feedId": "61e6a4f27bf20c6c1fd6c58d",
+    "liked": null,
+    "user": {
+      "_id": "61e1609392c643b754230c5d",
+      "type": "user",
+      "name": "abdullah kazi",
+      "profilePicture": "https://lh3.googleusercontent.com/a/AATXAJzyuQZnSarIAVKsJJqqNeZazixpisMBWSm0yu6l=s96-c",
+      "customData": {
+        "emergencyNumberCountryCode": "+91",
+        "age": {
+          "label": "35-55",
+          "values": {
+            "min": 35,
+            "max": 55
+          }
+        },
+        "lastVisitedPage": 5,
+        "target": {
+          "label": "Muscle Gain",
+          "value": "Muscle Gain"
+        },
+        "level": {
+          "label": "Advanced",
+          "value": "3"
+        },
+        "activityDuration": {
+          "label": "45+ minutes",
+          "values": {
+            "min": 45
+          }
+        },
+        "frequency": {
+          "label": "3",
+          "value": "3"
+        }
+      },
+      "address": {
+        "fullAddress": "ghjkkknbv"
+      }
+    },
+    "action": [],
+    "timeDifference": "7D",
+    "feedType": "FEED_POST",
+    "actions": {},
+    "isBookmarked": false,
+    "shouldBeHidden": false,
+    "isReported": false
+  }
+]

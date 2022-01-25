@@ -1,0 +1,75 @@
+{
+  "userId": "61e1609392c643b754230c5d",
+  "tenantId": "lloyder001",
+  "content": "Bt Tu nnnm",
+  "scope": "OPEN",
+  "attachments": [],
+  "postedFrom": {
+    "createdAt": "2022-01-24T13:09:53.425Z",
+    "updatedAt": "2022-01-24T13:09:53.425Z"
+  },
+  "customData": {
+    "eventDate": 1643029792.387788
+  },
+  "createdAt": "2022-01-24T13:09:53.425Z",
+  "updatedAt": "2022-01-24T13:10:06.458Z",
+  "likes": {
+    "totalCount": 1,
+    "type": {
+      "like": 1
+    }
+  },
+  "comments": {
+    "lastCommentedById": "61e1609392c643b754230c5d",
+    "lastCommentedByName": "abdullah kazi",
+    "totalCount": 1,
+    "updatedAt": "2022-01-24T13:10:06.458Z"
+  },
+  "feedId": "61eea5217bf20c6c1fd6c853",
+  "liked": null,
+  "user": {
+    "_id": "61e1609392c643b754230c5d",
+    "type": "user",
+    "name": "abdullah kazi",
+    "profilePicture": "https://lh3.googleusercontent.com/a/AATXAJzyuQZnSarIAVKsJJqqNeZazixpisMBWSm0yu6l=s96-c",
+    "customData": {
+      "emergencyNumberCountryCode": "+91",
+      "age": {
+        "label": "35-55",
+        "values": {
+          "min": 35,
+          "max": 55
+        }
+      },
+      "lastVisitedPage": 5,
+      "target": {
+        "label": "Muscle Gain",
+        "value": "Muscle Gain"
+      },
+      "level": {
+        "label": "Advanced",
+        "value": "3"
+      },
+      "activityDuration": {
+        "label": "45+ minutes",
+        "values": {
+          "min": 45
+        }
+      },
+      "frequency": {
+        "label": "3",
+        "value": "3"
+      }
+    },
+    "address": {
+      "fullAddress": "ghjkkknbv"
+    }
+  },
+  "action": [],
+  "timeDifference": "1D",
+  "feedType": "FEED_POST",
+  "actions": {},
+  "isBookmarked": false,
+  "shouldBeHidden": false,
+  "isReported": false
+}
